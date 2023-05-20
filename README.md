@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JavaBaz
-- 👀 I’m interested in Java & Python
-- 🌱 I’m currently learning Java Spring Boot
-- 💞️ I’m looking to collaborate on basic java projects
+- 👋 Hi, I’m Amin.
+- 👀 I’m interested in Java & Python.
+- 🌱 I’m currently learning Java Spring Boot.
+- 💞️ I’m looking to collaborate on basic java projects.
 - 📫 reach me on aBazgir.ir
 
 <!---
