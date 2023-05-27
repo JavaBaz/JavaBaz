@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Amin</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
@@ -15,8 +17,34 @@
 - 📝 I regularly write articles on <a href="https://www.aBazgir.ir">aBazgir.ir</a> <br>
 
 
-</p>
+
+### 📈 GitHub Activity Graph:
+
+
+
+
+<div style="">
+  <div style="width:50%; float:left;">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JavaBaz)](https://git.io/streak-stats)
+
+  </div>
+  
+
+  <div style="width:50%; float:right;">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JavaBaz&show_icons=true&theme=transparent)
+
+  </div>
+</div>
+<div style="clear: both;"></div>
+
+
+
    <br>
+
+<div style="width:800px;">
+  <div style="float:left;">
 <h3 align="left">Languages :</h3>
 <p align="left"> 
 
@@ -30,6 +58,10 @@
 <br>
 </p>
 
+  </div>
+  
+
+  <div style=" float:right;">
 
 <h3 align="left"> Frameworks & Libraries :</h3>
 <p align="left"> 
@@ -42,7 +74,17 @@
    <br>
 </p>
 
-<h3 align="left"> Databases :</h3>
+  </div>
+</div>
+<div style="clear: both;"></div>
+
+
+
+
+
+<div style="width:800px;">
+  <div style="width:300px; float:left;">
+  <h3 align="left"> Databases :</h3>
 <p align="left"> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
@@ -51,15 +93,27 @@
    <br>
 </p>
 
-<h3 align="left"> Other Skils :</h3>
+  </div>
+  
+
+  <div style="width:300px; float:right;">
+  <h3 align="left"> Other Skils :</h3>
 <p align="left"> 
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/wp_icon-icons.com_62788.png" alt="wordpress" width="40" height="40"/> </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
+ <br>
+  </div>
+</div>
+<div style="clear: both;"></div>
 
-   <br>
+
+
+
+
+
 
 
 
