@@ -3,18 +3,11 @@
 <h1 align="center">Hi 👋, I'm Amin</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
-- 🔭 I’m currently working on [Vardast](https://github.com/JavaBaz/Vardast)
 
-- 🌱 I’m currently learning **Spring Framework**
-
-- 🤝 I’m looking to collaborate on **basic Java and Python projects.**
-
-- 🤝 I’m looking for help with [Vardast](https://github.com/JavaBaz/Vardast)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 - 📄 You can see <a href="https://www.in/amin-bazgir">my LinkedIn page</a> <br>
-- 📝 I regularly write articles on <a href="https://www.aBazgir.ir">aBazgir.ir</a> <br>
 
 
 
